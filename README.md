@@ -10,6 +10,6 @@ Bibliothèque en Turbo Pascal pour les traitements avec le protocole TCP/IP.
   </tr>
   <tr>
     <td><b>IPFNC.PAS</b></td>
-    <td>Cette unité contient des fontions pour la manipution d'adresse IP.</td>
+    <td>Cette unité contient des fonctions pour la manipulation d'adresse IP.</td>
   </tr>
 </table>
